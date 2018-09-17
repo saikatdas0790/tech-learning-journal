@@ -1,2 +1,3 @@
-# professional-timeline
-This is a Professional Timeline of all achievements and logs from my life
+# Timeline of all Things Learned and Journaled
+
+## [2018](/2018/2018.md)
